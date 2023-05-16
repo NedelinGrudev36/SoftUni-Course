@@ -6,6 +6,7 @@ namespace Passed
     {
         static void Main(string[] args)
         {
+              //grade=Parse;
             double grade = double.Parse(Console.ReadLine());
             if (grade>=3.00)
             {
