@@ -1,0 +1,13 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.genruntimeconfig.cache

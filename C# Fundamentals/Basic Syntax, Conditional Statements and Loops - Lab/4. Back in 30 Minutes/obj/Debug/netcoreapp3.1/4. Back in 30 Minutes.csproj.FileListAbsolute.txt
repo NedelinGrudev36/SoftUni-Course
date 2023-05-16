@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.genruntimeconfig.cache

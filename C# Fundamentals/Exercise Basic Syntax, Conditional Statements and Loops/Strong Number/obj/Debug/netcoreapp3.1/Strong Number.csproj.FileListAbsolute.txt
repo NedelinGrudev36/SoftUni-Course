@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.genruntimeconfig.cache

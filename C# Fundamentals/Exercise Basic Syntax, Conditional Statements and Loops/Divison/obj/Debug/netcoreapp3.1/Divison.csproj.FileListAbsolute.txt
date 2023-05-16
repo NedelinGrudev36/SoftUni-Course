@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.genruntimeconfig.cache
