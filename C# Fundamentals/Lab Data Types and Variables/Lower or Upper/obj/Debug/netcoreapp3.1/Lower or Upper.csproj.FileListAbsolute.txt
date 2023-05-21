@@ -1,0 +1,13 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.1\Lower or Upper.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.1\Lower or Upper.genruntimeconfig.cache
