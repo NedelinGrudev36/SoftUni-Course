@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Data Types and Variables\Exercise Data Types and Variables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.AssemblyReference.cache
