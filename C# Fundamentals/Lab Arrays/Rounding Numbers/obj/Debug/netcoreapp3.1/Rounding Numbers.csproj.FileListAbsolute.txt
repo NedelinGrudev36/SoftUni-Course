@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.genruntimeconfig.cache
