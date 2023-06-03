@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\bin\Debug\netcoreapp3.1\Math Power.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.genruntimeconfig.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Methods\Math Power\obj\Debug\netcoreapp3.1\Math Power.csproj.AssemblyReference.cache
