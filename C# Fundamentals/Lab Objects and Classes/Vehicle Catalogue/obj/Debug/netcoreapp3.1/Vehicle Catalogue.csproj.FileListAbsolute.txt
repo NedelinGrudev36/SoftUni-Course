@@ -1,0 +1,13 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache
