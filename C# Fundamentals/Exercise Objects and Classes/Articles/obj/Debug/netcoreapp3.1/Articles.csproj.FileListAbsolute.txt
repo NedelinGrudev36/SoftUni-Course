@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

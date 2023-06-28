@@ -1,0 +1,14 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.AssemblyReference.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Exercise Objects and Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.genruntimeconfig.cache
