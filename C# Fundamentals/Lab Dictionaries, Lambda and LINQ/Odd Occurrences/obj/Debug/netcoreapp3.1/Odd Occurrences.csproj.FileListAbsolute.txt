@@ -1,0 +1,13 @@
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.exe
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.deps.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfo.cs
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.dll
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.pdb
+C:\Users\Неделин\Desktop\C#\SoftUni\C# Fundamentals\Lab Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.genruntimeconfig.cache
