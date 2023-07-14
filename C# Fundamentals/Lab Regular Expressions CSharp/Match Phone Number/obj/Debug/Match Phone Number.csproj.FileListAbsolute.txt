@@ -1,0 +1,7 @@
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\bin\Debug\Match Phone Number.exe.config
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\bin\Debug\Match Phone Number.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\bin\Debug\Match Phone Number.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\obj\Debug\Match Phone Number.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\obj\Debug\Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\obj\Debug\Match Phone Number.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Phone Number\obj\Debug\Match Phone Number.pdb

@@ -1,0 +1,7 @@
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\bin\Debug\Match Full Name.exe.config
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\bin\Debug\Match Full Name.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\bin\Debug\Match Full Name.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\obj\Debug\Match Full Name.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\obj\Debug\Match Full Name.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\obj\Debug\Match Full Name.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Lab Regular Expressions CSharp\Match Full Name\obj\Debug\Match Full Name.pdb
