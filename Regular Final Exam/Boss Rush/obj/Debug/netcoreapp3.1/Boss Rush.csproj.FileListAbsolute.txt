@@ -1,0 +1,14 @@
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.deps.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.runtimeconfig.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.dll
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.dll
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.csproj.AssemblyReference.cache

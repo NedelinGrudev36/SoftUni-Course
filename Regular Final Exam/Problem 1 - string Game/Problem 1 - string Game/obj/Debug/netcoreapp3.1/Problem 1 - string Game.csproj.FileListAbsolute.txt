@@ -1,0 +1,14 @@
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.exe
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.deps.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.runtimeconfig.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.dll
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\bin\Debug\netcoreapp3.1\Problem 1 - string Game.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.dll
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.pdb
+D:\Programming\C#\SoftUni\C# Fundamentals\Regular Final Exam\Problem 1 - string Game\Problem 1 - string Game\obj\Debug\netcoreapp3.1\Problem 1 - string Game.genruntimeconfig.cache
