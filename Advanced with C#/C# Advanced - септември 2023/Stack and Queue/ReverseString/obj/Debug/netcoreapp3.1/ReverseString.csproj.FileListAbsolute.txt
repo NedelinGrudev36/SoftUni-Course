@@ -1,0 +1,14 @@
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

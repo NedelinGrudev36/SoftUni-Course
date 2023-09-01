@@ -1,0 +1,7 @@
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Simple Calculator\obj\Debug\Simple Calculator.pdb
