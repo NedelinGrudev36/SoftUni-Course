@@ -1,0 +1,7 @@
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\bin\Debug\Print Even Numbers.exe.config
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\bin\Debug\Print Even Numbers.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\bin\Debug\Print Even Numbers.pdb
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\obj\Debug\Print Even Numbers.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\obj\Debug\Print Even Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\obj\Debug\Print Even Numbers.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Print Even Numbers\obj\Debug\Print Even Numbers.pdb

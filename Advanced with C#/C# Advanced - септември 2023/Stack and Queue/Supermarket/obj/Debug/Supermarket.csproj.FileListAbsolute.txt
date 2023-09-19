@@ -1,0 +1,7 @@
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\bin\Debug\Supermarket.exe.config
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\bin\Debug\Supermarket.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\bin\Debug\Supermarket.pdb
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\obj\Debug\Supermarket.exe
+D:\Programming\C#\SoftUni\Advanced with C#\C# Advanced - септември 2023\Stack and Queue\Supermarket\obj\Debug\Supermarket.pdb
