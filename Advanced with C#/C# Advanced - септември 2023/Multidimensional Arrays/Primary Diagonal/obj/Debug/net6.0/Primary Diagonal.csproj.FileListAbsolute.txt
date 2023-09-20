@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\refint\Primary Diagonal.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Primary Diagonal\obj\Debug\net6.0\ref\Primary Diagonal.dll

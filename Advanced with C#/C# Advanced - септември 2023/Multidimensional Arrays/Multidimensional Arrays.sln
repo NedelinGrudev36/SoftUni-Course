@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33328.57
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumMatrixElement", "sumMatrixElement\sumMatrixElement.csproj", "{9974C992-A192-4A3C-9845-EDADA9749532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Columns", "Sum Matrix Columns\Sum Matrix Columns.csproj", "{1DAB055C-0470-49B4-B4AF-7CEFCC016FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary Diagonal", "Primary Diagonal\Primary Diagonal.csproj", "{6C328AEF-E0BD-4B37-BE5D-1FF36C1E4DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbol in Matrix", "Symbol in Matrix\Symbol in Matrix.csproj", "{9D344D7F-20DB-4853-A332-497537FC35EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9974C992-A192-4A3C-9845-EDADA9749532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9974C992-A192-4A3C-9845-EDADA9749532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9974C992-A192-4A3C-9845-EDADA9749532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB055C-0470-49B4-B4AF-7CEFCC016FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAB055C-0470-49B4-B4AF-7CEFCC016FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAB055C-0470-49B4-B4AF-7CEFCC016FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAB055C-0470-49B4-B4AF-7CEFCC016FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C328AEF-E0BD-4B37-BE5D-1FF36C1E4DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C328AEF-E0BD-4B37-BE5D-1FF36C1E4DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C328AEF-E0BD-4B37-BE5D-1FF36C1E4DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C328AEF-E0BD-4B37-BE5D-1FF36C1E4DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D344D7F-20DB-4853-A332-497537FC35EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D344D7F-20DB-4853-A332-497537FC35EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D344D7F-20DB-4853-A332-497537FC35EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D344D7F-20DB-4853-A332-497537FC35EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

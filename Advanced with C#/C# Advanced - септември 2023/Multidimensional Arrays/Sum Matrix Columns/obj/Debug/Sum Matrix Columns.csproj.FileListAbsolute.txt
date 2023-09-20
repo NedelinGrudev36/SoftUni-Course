@@ -1,0 +1,7 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.exe.config
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.pdb
