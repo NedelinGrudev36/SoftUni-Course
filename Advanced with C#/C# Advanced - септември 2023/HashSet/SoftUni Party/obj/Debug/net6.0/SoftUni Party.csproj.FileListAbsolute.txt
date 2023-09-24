@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\bin\Debug\net6.0\SoftUni Party.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\bin\Debug\net6.0\SoftUni Party.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\bin\Debug\net6.0\SoftUni Party.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\bin\Debug\net6.0\SoftUni Party.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\bin\Debug\net6.0\SoftUni Party.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\refint\SoftUni Party.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\SoftUni Party.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\SoftUni Party\obj\Debug\net6.0\ref\SoftUni Party.dll
