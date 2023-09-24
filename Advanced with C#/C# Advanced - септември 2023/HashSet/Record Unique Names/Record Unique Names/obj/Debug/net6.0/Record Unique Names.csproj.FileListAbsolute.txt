@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\bin\Debug\net6.0\Record Unique Names.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\bin\Debug\net6.0\Record Unique Names.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\bin\Debug\net6.0\Record Unique Names.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\bin\Debug\net6.0\Record Unique Names.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\bin\Debug\net6.0\Record Unique Names.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\refint\Record Unique Names.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\Record Unique Names.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\HashSet\Record Unique Names\Record Unique Names\obj\Debug\net6.0\ref\Record Unique Names.dll
