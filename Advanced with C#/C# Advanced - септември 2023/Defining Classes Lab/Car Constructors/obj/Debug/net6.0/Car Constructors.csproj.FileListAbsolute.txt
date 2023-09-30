@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\bin\Debug\net6.0\Car Constructors.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\bin\Debug\net6.0\Car Constructors.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\bin\Debug\net6.0\Car Constructors.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\bin\Debug\net6.0\Car Constructors.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\bin\Debug\net6.0\Car Constructors.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\refint\Car Constructors.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\Car Constructors.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Constructors\obj\Debug\net6.0\ref\Car Constructors.dll
