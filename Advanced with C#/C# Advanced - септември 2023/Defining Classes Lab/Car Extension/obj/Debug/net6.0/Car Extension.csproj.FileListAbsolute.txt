@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\bin\Debug\net6.0\Car Extension.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\bin\Debug\net6.0\Car Extension.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\bin\Debug\net6.0\Car Extension.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\bin\Debug\net6.0\Car Extension.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\bin\Debug\net6.0\Car Extension.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\refint\Car Extension.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\Car Extension.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Extension\obj\Debug\net6.0\ref\Car Extension.dll
