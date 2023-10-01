@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\bin\Debug\net6.0\Car Engine and Tires.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\bin\Debug\net6.0\Car Engine and Tires.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\bin\Debug\net6.0\Car Engine and Tires.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\bin\Debug\net6.0\Car Engine and Tires.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\bin\Debug\net6.0\Car Engine and Tires.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\refint\Car Engine and Tires.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\Car Engine and Tires.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Car Engine and Tires\obj\Debug\net6.0\ref\Car Engine and Tires.dll

@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\bin\Debug\net6.0\Special Cars.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\bin\Debug\net6.0\Special Cars.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\bin\Debug\net6.0\Special Cars.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\bin\Debug\net6.0\Special Cars.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\bin\Debug\net6.0\Special Cars.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\refint\Special Cars.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\Special Cars.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\Defining Classes Lab\Special Cars\obj\Debug\net6.0\ref\Special Cars.dll
