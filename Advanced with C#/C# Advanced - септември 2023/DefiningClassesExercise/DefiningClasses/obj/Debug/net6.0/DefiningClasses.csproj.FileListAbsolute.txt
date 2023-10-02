@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\bin\Debug\net6.0\DefiningClasses.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\refint\DefiningClasses.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\DefiningClasses.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\DefiningClasses\obj\Debug\net6.0\ref\DefiningClasses.dll
