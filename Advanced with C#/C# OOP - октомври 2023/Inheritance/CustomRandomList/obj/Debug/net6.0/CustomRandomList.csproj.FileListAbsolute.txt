@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

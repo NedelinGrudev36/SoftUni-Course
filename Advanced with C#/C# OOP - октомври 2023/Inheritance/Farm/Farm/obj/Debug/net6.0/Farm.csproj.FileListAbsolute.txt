@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\bin\Debug\net6.0\Farm.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\bin\Debug\net6.0\Farm.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\bin\Debug\net6.0\Farm.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\bin\Debug\net6.0\Farm.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\bin\Debug\net6.0\Farm.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\refint\Farm.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Inheritance\Farm\Farm\obj\Debug\net6.0\ref\Farm.dll

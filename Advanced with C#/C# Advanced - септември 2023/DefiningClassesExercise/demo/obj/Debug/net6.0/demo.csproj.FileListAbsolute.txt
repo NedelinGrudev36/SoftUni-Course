@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\bin\Debug\net6.0\demo.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\bin\Debug\net6.0\demo.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\bin\Debug\net6.0\demo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\bin\Debug\net6.0\demo.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\refint\demo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\DefiningClassesExercise\demo\obj\Debug\net6.0\ref\demo.dll
