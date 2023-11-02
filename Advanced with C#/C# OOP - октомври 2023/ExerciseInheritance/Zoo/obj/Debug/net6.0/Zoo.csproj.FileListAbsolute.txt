@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\bin\Debug\net6.0\Zoo.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\bin\Debug\net6.0\Zoo.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\bin\Debug\net6.0\Zoo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\bin\Debug\net6.0\Zoo.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Zoo\obj\Debug\net6.0\ref\Zoo.dll
