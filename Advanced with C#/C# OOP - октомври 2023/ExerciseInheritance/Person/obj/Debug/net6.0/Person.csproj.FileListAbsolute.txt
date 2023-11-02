@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\bin\Debug\net6.0\Person.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\bin\Debug\net6.0\Person.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\bin\Debug\net6.0\Person.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\bin\Debug\net6.0\Person.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\refint\Person.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\ExerciseInheritance\Person\obj\Debug\net6.0\ref\Person.dll
