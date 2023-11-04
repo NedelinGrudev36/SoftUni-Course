@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace playersAndMonsters
 {
-    internal class Wizard
+    public class Wizard : Hero
     {
+        public Wizard(string username, int level) 
+            : base(username, level)
+        {
+        }
     }
 }

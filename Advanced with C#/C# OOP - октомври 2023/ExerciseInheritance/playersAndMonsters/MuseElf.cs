@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace playersAndMonsters
 {
-    internal class MuseElf
+    public class MuseElf : Elf
     {
+        public MuseElf(string username, int level) 
+            : base(username, level)
+        {
+        }
     }
 }
