@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\bin\Debug\net6.0\Operations.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\bin\Debug\net6.0\Operations.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\bin\Debug\net6.0\Operations.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\bin\Debug\net6.0\Operations.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\refint\Operations.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# OOP - октомври 2023\Lab Polymorphism\Operations\obj\Debug\net6.0\ref\Operations.dll
