@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NmlLNp0II+qBaGQgjxlgdfWascof+kxdPXXFcHntGu+ZhNJhAeNIBPPmC9C9b/S3j52NjeQRVqGgsuwnqusMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\Advanced with C#\\C# OOP - октомври 2023\\PreparationExam\\01. Structure_Skeleton\\ChristmasPastryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Неделин\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Неделин\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Неделин\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Неделин\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
