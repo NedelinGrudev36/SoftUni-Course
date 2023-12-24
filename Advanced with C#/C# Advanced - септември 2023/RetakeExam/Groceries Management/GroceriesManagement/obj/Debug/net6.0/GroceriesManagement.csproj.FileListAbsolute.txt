@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\refint\GroceriesManagement.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\Groceries Management\GroceriesManagement\obj\Debug\net6.0\ref\GroceriesManagement.dll

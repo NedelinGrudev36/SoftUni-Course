@@ -1,0 +1,14 @@
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\bin\Debug\net6.0\01. Worms&Holes.exe
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\bin\Debug\net6.0\01. Worms&Holes.deps.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\bin\Debug\net6.0\01. Worms&Holes.runtimeconfig.json
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\bin\Debug\net6.0\01. Worms&Holes.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\bin\Debug\net6.0\01. Worms&Holes.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.AssemblyInfo.cs
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\refint\01. Worms&Holes.dll
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.pdb
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\01. Worms&Holes.genruntimeconfig.cache
+D:\Programming\C#\GitHub repos\SoftUni-Course\Advanced with C#\C# Advanced - септември 2023\RetakeExam\01. Worms&Holes\01. Worms&Holes\obj\Debug\net6.0\ref\01. Worms&Holes.dll
