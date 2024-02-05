@@ -11,3 +11,15 @@
   font-size: 30px;
   flex-basis: 120px;
 }
+
+div:nth-child(1){
+  flex-grow: 0;
+}
+
+div:nth-child(2){
+  flex-grow: 1;
+}
+
+div:nth-child(3){
+  flex-grow: 2;
+}

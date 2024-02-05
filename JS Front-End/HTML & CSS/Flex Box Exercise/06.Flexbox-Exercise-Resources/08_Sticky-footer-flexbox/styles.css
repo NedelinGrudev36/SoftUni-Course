@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    border-bottom: 2px solid black;
+}
+header h1{
+    margin: 0.2em 0;
+}
+
+main{
+    font-family:'Times New Roman', Times, serif;
+}
+
+main h2{
+    margin: 0.5em;
+}
+
+main p{
+    line-height: 1.5;
+    margin: 0 1em;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+    font-size: large;
+}
+
+footer p{
+    margin: 0 1em;
+}
+

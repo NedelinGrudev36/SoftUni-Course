@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+}
+
+div{
+    background-color: rgb(255, 255, 255);
+    width: 12%;
+    justify-content: center;
+    position: sticky;
+    align-items: center;
+}
