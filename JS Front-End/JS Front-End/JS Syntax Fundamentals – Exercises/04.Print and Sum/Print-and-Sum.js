@@ -1,9 +1,12 @@
 function solve(start,end){
-    let Sum;
-    for(let i=start;i<=end;i++){
-        Sum+=i;
-        console.log(Sum);
+    let result='';
+    let sum=0;
+
+    for(let i = start; i<=end;i++){
+        sum+=i;
+        result+= i + ' ';
     }
-    console.log('Sum: ' + Sum);
+    console.log(result.trim());
+    console.log(`Sum: ${sum}`);
 }
 solve(5,10);
