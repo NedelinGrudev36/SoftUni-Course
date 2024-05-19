@@ -155,12 +155,15 @@ CREATE TABLE Movies
 	Notes VARCHAR(MAX)
 )
 
+
+
 INSERT INTO Movies(Title,DirectorId,CopyrightYear,[Length],GenreId,CategoryId,Rating,Notes)
 VALUES('titanik',2,'1995-05-05',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik1',1,'1996-04-05',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik2',2,'1934-05-04',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik3',1,'1995-06-05',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik4',2,'1933-05-12',200,1,3,5,'adwawdaijwdiajwdj')
+SELECT * FROM Movies
 	
 --14. Car Rental Database
 --14.1 create database
