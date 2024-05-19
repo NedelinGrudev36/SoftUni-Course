@@ -162,6 +162,73 @@ VALUES('titanik',2,'1995-05-05',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik3',1,'1995-06-05',200,1,3,5,'adwawdaijwdiajwdj'),
 ('titanik4',2,'1933-05-12',200,1,3,5,'adwawdaijwdiajwdj')
 	
+--14. Car Rental Database
+--14.1 create database
+CREATE DATABASE CarRental
+
+USE CarRental
+CREATE TABLE Categories
+(
+	Id INT PRIMARY KEY IDENTITY,
+	CategoryName VARCHAR(30),
+	DailyRate INT,
+	WeeklyRate INT,
+	MonthlyRate INT,
+	WeekendRate INT
+)
+
+CREATE TABLE Cars
+(
+	Id INT PRIMARY KEY IDENTITY,
+	PlateNumber INT,
+	Manufacturer VARCHAR(30),
+	Model VARCHAR(30),
+	CarYear VARCHAR(30),
+	CategoryId INT,
+	Doors INT,
+	Picture VARBINARY(MAX),
+	Condition VARCHAR(30),
+	Available VARCHAR(30)
+)
+
+CREATE TABLE Employees 
+(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName VARCHAR(30),
+	LastName VARCHAR(30),
+	Title VARCHAR(30),
+	Notes VARCHAR(MAX)
+)
+
+CREATE TABLE Customers
+(
+	Id INT PRIMARY KEY IDENTITY,
+	DriverLicenceNumber INT,
+	FullName VARCHAR(MAX),
+	[Address] VARCHAR(50),
+	City VARCHAR(30),
+	ZIPCode INT,
+	Notes VARCHAR(30)
+)
+
+CREATE TABLE RentalOrders
+(
+	Id INT PRIMARY KEY IDENTITY,
+	EmployeeId INT,
+	CustomerId INT,
+	CarId INT,
+	TankLevel INT,
+	KilometrageStart INT,
+	KilometrageEnd INT,
+	TotalKilometrage INT,
+	StartDate DATETIME2,
+	EndDate DATETIME2,
+	TotalDays INT,
+	RateApplied INT,
+	TaxRate INT,
+	OrderStatus VARCHAR(30),
+	Notes VARCHAR(MAX)
+)
 
 
 
