@@ -76,3 +76,40 @@ ORDER BY [Salary] DESC,
 [FirstName] ASC,
 [LastName] DESC,
 [MiddleName] ASC
+
+--16. Create View Employees with Salary
+
+CREATE VIEW V_EmployeesSalaries AS
+(
+	SELECT [FirstName], [LastName], [Salary]
+	FROM Employees
+)
+
+--17. Create View Employees with Job Titles
+
+CREATE VIEW V_EmployeeNameJobTitle AS
+(
+	SELECT 
+	CONCAT_WS(' ', [FirstName], [MiddleName], [LastName]) AS 'Full Name'
+	[Salary]
+	FROM Employees
+)
+
+--18. Distinct Job Titles
+
+SELECT DISTINCT [JobTitle]
+FROM Employees
+
+--19. Find First 10 Started Projects
+
+SELECT TOP(10) *
+FROM Projects
+ORDER BY StartDate, [Name]
+
+
+--20. Last 7 Hired Employees
+
+SELECT TOP(7) [FirstName], [LastName] , [HireDate]
+FROM Employees
+ORDER BY [HireDate] DESC
+
