@@ -1,0 +1,16 @@
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.deps.json
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.dll
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Data.pdb
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Models.dll
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.AssemblyReference.cache
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfo.cs
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.sourcelink.json
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.CopyComplete
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.dll
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\refint\BookShop.Data.dll
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\BookShop.Data.pdb
+C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Data\obj\Debug\net6.0\ref\BookShop.Data.dll
