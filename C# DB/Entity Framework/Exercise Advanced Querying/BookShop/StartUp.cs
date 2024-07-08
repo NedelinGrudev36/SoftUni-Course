@@ -34,6 +34,11 @@
 
         //03
 
+        public static string GetGoldenBooks(BookShopContext context)
+        {
+            var 
+        }
+
 
     }
 }
