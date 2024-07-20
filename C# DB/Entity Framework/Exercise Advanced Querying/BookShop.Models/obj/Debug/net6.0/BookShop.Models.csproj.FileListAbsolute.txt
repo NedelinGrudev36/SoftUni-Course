@@ -10,3 +10,15 @@ C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Ad
 C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
 C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
 C:\Programming\C#\GitHub repos\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.sourcelink.json
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+C:\Programming\SoftUni-Course\C# DB\Entity Framework\Exercise Advanced Querying\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll

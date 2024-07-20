@@ -6989,19 +6989,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\picha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\BookShop.Data.csproj",
+      "projectUniqueName": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\BookShop.Data.csproj",
       "projectName": "BookShop.Data",
-      "projectPath": "C:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\BookShop.Data.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\obj\\",
+      "projectPath": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\BookShop.Data.csproj",
+      "packagesPath": "C:\\Users\\picha\\.nuget\\packages\\",
+      "outputPath": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\picha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7015,8 +7015,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Models\\BookShop.Models.csproj": {
-              "projectPath": "C:\\Programming\\C#\\GitHub repos\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Models\\BookShop.Models.csproj"
+            "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise Advanced Querying\\BookShop.Models\\BookShop.Models.csproj"
             }
           }
         }
@@ -7025,6 +7025,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7051,26 +7056,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
