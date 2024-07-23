@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\datasets\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\dtos\\export\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise json processing\\productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Data\\Configuration.cs",
+              "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:06:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductShopContext.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\ProductShopContext.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeToolTip": "ProductShop\\Data\\ProductShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:34:55.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Datasets\\products.json",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\products.json",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Datasets\\products.json",
+              "RelativeToolTip": "ProductShop\\Datasets\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T16:04:47.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\Models\\Product.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:44:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportProductDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\DTOs\\Export\\ExportProductDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportProductDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\DTOs\\Export\\ExportProductDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:36:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise JSON Processing\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:25:07.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
