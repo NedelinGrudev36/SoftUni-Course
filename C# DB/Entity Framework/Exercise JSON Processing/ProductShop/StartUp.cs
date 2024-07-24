@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using AutoMapper.Configuration.Annotations;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using ProductShop.Data;
 using ProductShop.DTOs.Export;
@@ -27,6 +28,12 @@ namespace ProductShop
             //04
             string categoryProducts = File.ReadAllText("../../../Datasets/categories-products.json");
             Console.WriteLine(ImportCategoryProducts(context, categoryProducts));
+
+            //05
+            Console.WriteLine(GetSoldProducts(context));
+
+            //06
+
         }
 
         public static string ImportUsers(ProductShopContext context, string inputJson)
@@ -114,7 +121,60 @@ namespace ProductShop
                 .ThenBy(p => p.FirstName)
                 .ToList();
 
+            return SerializeObjectWithJsonSettings(soldProducts);
+        }
 
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+            var categories = context.Categories
+                .Select(x => new
+                {
+                    Category = x.Name,
+                    ProductCount = x.CategoriesProducts.Count(),
+                    AveragePrice = x.CategoriesProducts.Average(cp => cp.Product.Price).ToString("f2"),
+                    TotalRevenue = x.CategoriesProducts.Sum(x => x.Product.Price).ToString("f2")
+                })
+                .OrderByDescending(x => x.ProductCount)
+                .ToList();
+
+            return SerializeObjectWithJsonSettings(categories);
+        }
+
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                .Where(u => u.ProductsSold.Any(p => p.BuyerId != null && p.Price != null))
+                .Select(u => new
+                {
+                    u.FirstName,
+                    u.LastName,
+                    u.Age,
+                    SoldProducts = u.ProductsSold
+                    .Select(p => new
+                    {
+                        p.Name,
+                        p.Price
+                    })
+                    .ToArray()
+                })
+                .OrderByDescending(u => u.SoldProducts.Length)
+                .ToArray();
+
+            return SerializeObjectWithJsonSettings(users);       
+        }
+
+
+
+        private static string SerializeObjectWithJsonSettings(string obj)
+        {
+            var settings = new JsonSerializerSettings()
+            {
+                NullValueHandling = NullValueHandling.Ignore,
+                ContractResolver = new CamelCasePropertyNamesContractResolver(),
+                Formatting = Formatting.Indented,
+            };
+
+            return JsonConvert.SerializeObject(obj, settings);
         }
     }
 }
