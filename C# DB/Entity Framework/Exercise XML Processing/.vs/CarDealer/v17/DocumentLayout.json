@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise xml processing\\cardealer\\dtos\\import\\supplierimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\supplierimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise xml processing\\cardealer\\dtos\\import\\partsimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\partsimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\exercise xml processing\\cardealer\\datasets\\parts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\parts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "parts.xml",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\Datasets\\parts.xml",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\parts.xml",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\Datasets\\parts.xml",
+              "RelativeToolTip": "CarDealer\\Datasets\\parts.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-25T17:59:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SupplierImportDto.cs",
-              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\DTOs\\Import\\SupplierImportDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\SupplierImportDto.cs",
-              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\DTOs\\Import\\SupplierImportDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\SupplierImportDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Title": "PartsImportDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\DTOs\\Import\\PartsImportDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\PartsImportDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\DTOs\\Import\\PartsImportDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\PartsImportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T13:25:55.504Z",
+              "WhenOpened": "2024-07-25T17:55:33.808Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
               "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\StartUp.cs",
               "RelativeToolTip": "CarDealer\\StartUp.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAvAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBAAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T12:59:06.379Z",
               "EditorCaption": ""
