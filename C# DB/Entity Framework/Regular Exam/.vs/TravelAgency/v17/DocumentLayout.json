@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\exportdtos\\guideexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\guideexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\dataconstarints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\dataconstarints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\importdtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\importdtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\tourpackageguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackageguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\importdtos\\customerimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\importdtos\\customerimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\dataprocessor\\exportdtos\\tourpackageexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\tourpackageexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\programming\\softuni-course\\c# db\\entity framework\\regular exam\\travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:34:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwGYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:09:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelAgencyContext.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:07:23.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourPackage.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:19:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataConstarints.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\DataConstarints.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\DataConstarints.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\DataConstarints.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\DataConstarints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:35:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA2wBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:15:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuideExportDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ExportDtos\\GuideExportDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\GuideExportDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ExportDtos\\GuideExportDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\GuideExportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:36:48.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\StartUp.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\StartUp.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\StartUp.cs",
+              "RelativeToolTip": "TravelAgency\\StartUp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:50:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourPackageGuide.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:21:52.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ImportDtos\\BookingDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ImportDtos\\BookingDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ImportDtos\\BookingDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ImportDtos\\BookingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:24:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerImportDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ImportDtos\\CustomerImportDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ImportDtos\\CustomerImportDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ImportDtos\\CustomerImportDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ImportDtos\\CustomerImportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:11:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TourPackageExportDto.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ExportDtos\\TourPackageExportDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\TourPackageExportDto.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\DataProcessor\\ExportDtos\\TourPackageExportDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\TourPackageExportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:37:25.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:17:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:08:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Regular Exam\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:22:56.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

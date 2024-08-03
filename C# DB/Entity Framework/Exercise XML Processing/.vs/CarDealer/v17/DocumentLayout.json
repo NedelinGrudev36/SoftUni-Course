@@ -34,8 +34,7 @@
               "RelativeToolTip": "CarDealer\\Datasets\\parts.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-07-25T17:59:21.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T17:59:21.372Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Import\\PartsImportDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T17:55:33.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T17:55:33.808Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
               "ToolTip": "C:\\Programming\\SoftUni-Course\\C# DB\\Entity Framework\\Exercise XML Processing\\CarDealer\\StartUp.cs",
               "RelativeToolTip": "CarDealer\\StartUp.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA1wBAAAABHAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T12:59:06.379Z",
               "EditorCaption": ""
